@@ -60,9 +60,10 @@ There are multiple tools available for removing Git history, we'll use BFG Repo-
 8. Push your changes to GitHub. Note we're using the `--force` argument in this step since we're altering Git history.
    ```shell
    git push --force
-   ```
+   `
 9. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+10. Task get completed
 <footer>
 
 <!--
